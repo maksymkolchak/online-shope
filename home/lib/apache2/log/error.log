@@ -1,0 +1,7 @@
+[Sat Oct 13 11:21:10.616376 2018] [mpm_prefork:notice] [pid 5251] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Sat Oct 13 11:21:10.616470 2018] [core:notice] [pid 5251] AH00094: Command line: 'apache2'
+[Sat Oct 13 11:21:13.168673 2018] [core:info] [pid 5283] [client 10.240.0.187:41194] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://online-shop-maksmaks.c9users.io/index.html
+[Tue Oct 30 19:19:59.973241 2018] [core:warn] [pid 2603] AH00098: pid file /home/ubuntu/lib/apache2/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 30 19:19:59.979626 2018] [mpm_prefork:notice] [pid 2603] AH00163: Apache/2.4.7 (Ubuntu) PHP/5.5.9-1ubuntu4.22 configured -- resuming normal operations
+[Tue Oct 30 19:19:59.979659 2018] [core:notice] [pid 2603] AH00094: Command line: 'apache2'
+[Tue Oct 30 19:20:05.402105 2018] [core:info] [pid 2617] [client 10.240.1.97:60646] AH00128: File does not exist: /home/ubuntu/workspace/favicon.ico, referer: https://online-shop-maksmaks.c9users.io/index.html
